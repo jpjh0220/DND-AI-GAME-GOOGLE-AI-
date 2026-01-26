@@ -1,0 +1,7 @@
+{
+  "name": "Mythic Realms RPG",
+  "description": "A dynamic, text-based RPG adventure powered by Gemini. Create your hero, explore a fantasy world, and make choices that shape your story. The Dungeon Master is an AI that responds to your actions in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
